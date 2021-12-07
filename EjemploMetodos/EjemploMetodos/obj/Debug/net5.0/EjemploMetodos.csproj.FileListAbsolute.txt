@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos.deps.json
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos.dll
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/ref/EjemploMetodos.dll
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/bin/Debug/net5.0/EjemploMetodos.pdb
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.dll
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/ref/EjemploMetodos.dll
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.pdb
+/home/felipe/Dropbox/Programación/C#/EjemploMetodos/EjemploMetodos/obj/Debug/net5.0/EjemploMetodos.genruntimeconfig.cache

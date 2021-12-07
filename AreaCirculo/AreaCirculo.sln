@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCirculo", "AreaCirculo\AreaCirculo.csproj", "{A982F2FC-B765-431B-8CB6-D2C986F40D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A982F2FC-B765-431B-8CB6-D2C986F40D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A982F2FC-B765-431B-8CB6-D2C986F40D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A982F2FC-B765-431B-8CB6-D2C986F40D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A982F2FC-B765-431B-8CB6-D2C986F40D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

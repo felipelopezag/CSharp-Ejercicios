@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo.deps.json
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo.dll
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/ref/AreaCirculo.dll
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/bin/Debug/net5.0/AreaCirculo.pdb
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.dll
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/ref/AreaCirculo.dll
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.pdb
+/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/Debug/net5.0/AreaCirculo.genruntimeconfig.cache
