@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF.deps.json
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF.dll
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/ref/CondicionIF.dll
+/home/felipe/Dropbox/Programación/C#/CondicionIF/bin/Debug/net5.0/CondicionIF.pdb
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.dll
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/ref/CondicionIF.dll
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.pdb
+/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/Debug/net5.0/CondicionIF.genruntimeconfig.cache
