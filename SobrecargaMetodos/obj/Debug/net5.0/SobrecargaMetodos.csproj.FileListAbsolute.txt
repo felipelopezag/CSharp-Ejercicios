@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos.deps.json
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos.dll
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/ref/SobrecargaMetodos.dll
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/bin/Debug/net5.0/SobrecargaMetodos.pdb
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.dll
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/ref/SobrecargaMetodos.dll
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.pdb
+/home/felipe/Dropbox/Programación/C#/SobrecargaMetodos/obj/Debug/net5.0/SobrecargaMetodos.genruntimeconfig.cache
