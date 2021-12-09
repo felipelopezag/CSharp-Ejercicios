@@ -8,12 +8,12 @@ namespace MetodoSimplificado
         {
             // Ejemplo de uso de metodo simplificado
             Console.WriteLine("Primer número: ");
-            int num1 = int.Parse(System.Console.ReadLine());
+            int num1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Segundo número: ");
-            int num2 = int.Parse(System.Console.ReadLine());
-            System.Console.WriteLine("La suma es: "+ suma(num1, num2));
+            int num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("La suma es: "+ Suma(num1, num2));
         }
         // Metodo de suma de dos numeros simplificado.
-        static int suma(int a, int b) => a + b;
+        static int Suma(int a, int b) => a + b;
     }
 }

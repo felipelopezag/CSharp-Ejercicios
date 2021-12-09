@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MetodoSimplificado
-build_property.ProjectDir = /home/felipe/Documentos/CSharp/MetodoSimplificado/
+build_property.ProjectDir = /home/felipe/Dropbox/Programación/C#/MetodoSimplificado/

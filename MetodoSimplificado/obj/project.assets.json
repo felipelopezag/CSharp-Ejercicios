@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/felipe/Documentos/CSharp/MetodoSimplificado/MetodoSimplificado.csproj",
+      "projectUniqueName": "/home/felipe/Dropbox/Programación/C#/MetodoSimplificado/MetodoSimplificado.csproj",
       "projectName": "MetodoSimplificado",
-      "projectPath": "/home/felipe/Documentos/CSharp/MetodoSimplificado/MetodoSimplificado.csproj",
+      "projectPath": "/home/felipe/Dropbox/Programación/C#/MetodoSimplificado/MetodoSimplificado.csproj",
       "packagesPath": "/home/felipe/.nuget/packages/",
-      "outputPath": "/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/",
+      "outputPath": "/home/felipe/Dropbox/Programación/C#/MetodoSimplificado/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/felipe/.nuget/NuGet/NuGet.Config"
