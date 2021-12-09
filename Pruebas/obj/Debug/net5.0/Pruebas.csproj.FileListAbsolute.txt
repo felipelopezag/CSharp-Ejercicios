@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas.deps.json
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas.dll
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/ref/Pruebas.dll
+/home/felipe/Dropbox/Programación/C#/Pruebas/bin/Debug/net5.0/Pruebas.pdb
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.dll
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/ref/Pruebas.dll
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.pdb
+/home/felipe/Dropbox/Programación/C#/Pruebas/obj/Debug/net5.0/Pruebas.genruntimeconfig.cache
