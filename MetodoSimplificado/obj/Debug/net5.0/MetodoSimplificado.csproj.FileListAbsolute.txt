@@ -1,0 +1,16 @@
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado.deps.json
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado.runtimeconfig.json
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado.runtimeconfig.dev.json
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado.dll
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/ref/MetodoSimplificado.dll
+/home/felipe/Documentos/CSharp/MetodoSimplificado/bin/Debug/net5.0/MetodoSimplificado.pdb
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.csproj.AssemblyReference.cache
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.AssemblyInfoInputs.cache
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.AssemblyInfo.cs
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.csproj.CoreCompileInputs.cache
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.dll
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/ref/MetodoSimplificado.dll
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.pdb
+/home/felipe/Documentos/CSharp/MetodoSimplificado/obj/Debug/net5.0/MetodoSimplificado.genruntimeconfig.cache
