@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF.deps.json
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF.dll
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ref/ElseIF.dll
+/home/felipe/Dropbox/Programación/C#/ElseIF/bin/Debug/net5.0/ElseIF.pdb
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.dll
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ref/ElseIF.dll
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.pdb
+/home/felipe/Dropbox/Programación/C#/ElseIF/obj/Debug/net5.0/ElseIF.genruntimeconfig.cache
