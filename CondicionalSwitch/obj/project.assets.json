@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/felipe/Dropbox/Programación/C#/CondicionIF/CondicionIF.csproj",
-      "projectName": "CondicionIF",
-      "projectPath": "/home/felipe/Dropbox/Programación/C#/CondicionIF/CondicionIF.csproj",
+      "projectUniqueName": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj",
+      "projectName": "CondicionalSwitch",
+      "projectPath": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj",
       "packagesPath": "/home/felipe/.nuget/packages/",
-      "outputPath": "/home/felipe/Dropbox/Programación/C#/CondicionIF/obj/",
+      "outputPath": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/felipe/.nuget/NuGet/NuGet.Config"

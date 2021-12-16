@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/AreaCirculo.csproj": {}
+    "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj": {}
   },
   "projects": {
-    "/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/AreaCirculo.csproj": {
+    "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/AreaCirculo.csproj",
-        "projectName": "AreaCirculo",
-        "projectPath": "/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/AreaCirculo.csproj",
+        "projectUniqueName": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj",
+        "projectName": "CondicionalSwitch",
+        "projectPath": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/CondicionalSwitch.csproj",
         "packagesPath": "/home/felipe/.nuget/packages/",
-        "outputPath": "/home/felipe/Dropbox/Programación/C#/AreaCirculo/AreaCirculo/obj/",
+        "outputPath": "/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/felipe/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/151/sdk/5.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }
