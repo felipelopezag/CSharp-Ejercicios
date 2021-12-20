@@ -1,3 +1,8 @@
+/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.csproj.CoreCompileInputs.cache
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/CondicionalSwitch
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/CondicionalSwitch.deps.json
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/CondicionalSwitch.runtimeconfig.json
@@ -5,11 +10,6 @@
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/CondicionalSwitch.dll
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/ref/CondicionalSwitch.dll
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/bin/Debug/net5.0/CondicionalSwitch.pdb
-/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.csproj.AssemblyReference.cache
-/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
-/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.AssemblyInfoInputs.cache
-/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.AssemblyInfo.cs
-/home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.csproj.CoreCompileInputs.cache
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.dll
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/ref/CondicionalSwitch.dll
 /home/felipe/Dropbox/Programación/C#/CondicionalSwitch/obj/Debug/net5.0/CondicionalSwitch.pdb
