@@ -8,7 +8,7 @@ namespace CondicionalSwitch
         {
             // Uso de switch para convertir numeros del 1 al 10 a letras
             System.Console.WriteLine("Ingrese un numero del 1 al 10");
-            int a = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
+            int a = int.Parse(Console.ReadLine());
             switch (a)
             {
                 case 1:
