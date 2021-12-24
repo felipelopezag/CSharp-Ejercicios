@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio.deps.json
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio.dll
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/ref/AdivinarAleatorio.dll
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/bin/Debug/net5.0/AdivinarAleatorio.pdb
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.dll
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/ref/AdivinarAleatorio.dll
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.pdb
+/home/felipe/Dropbox/Programación/C#/AdivinarAleatorio/obj/Debug/net5.0/AdivinarAleatorio.genruntimeconfig.cache
