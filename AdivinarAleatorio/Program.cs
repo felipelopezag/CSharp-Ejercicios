@@ -6,7 +6,7 @@ namespace AdivinarAleatorio
     {
         static void Main(string[] args)
         {
-            // Programa que genera un número aleatorio entre 0 y 100 y debes adivinar cuál generó.
+            // Programa que genera un número aleatorio entre 0 y 100 y debes adivinar cuál generó. (Usando While)
             Random numero= new Random(); //Se crea un objeto que generará un número aleatorio
             int aleatorio = numero.Next(1,100); // Se crea una variable con un número aleatorio
             int minumero=101; //Se inicializa la variable en un número fuera del rango de 0 y 100
