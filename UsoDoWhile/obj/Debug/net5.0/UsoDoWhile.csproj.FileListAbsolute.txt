@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile.deps.json
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile.dll
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/ref/UsoDoWhile.dll
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/bin/Debug/net5.0/UsoDoWhile.pdb
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.dll
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/ref/UsoDoWhile.dll
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.pdb
+/home/felipe/Dropbox/Programación/C#/UsoDoWhile/obj/Debug/net5.0/UsoDoWhile.genruntimeconfig.cache

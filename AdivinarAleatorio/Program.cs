@@ -15,8 +15,15 @@ namespace AdivinarAleatorio
             while(aleatorio!=minumero)
             {
                 intentos++; // Se incrementa un intento en uno
+                try{
                 minumero=int.Parse(Console.ReadLine()); // Se almacena y sobre-escribe el número dado por el usuario.
-                
+                }
+                catch(FormatException e){
+                    System.Console.WriteLine("No uses letras, usa solo número entre 0 y 100 ");
+                }
+                catch(OverflowException e){
+                    System.Console.WriteLine("Número demasiado grande, usa solo números entre 0 y 100");
+                }
                 //Se valída el número proporcionado con el usuario con el generado aleatoriamente.
                 if(minumero>aleatorio) System.Console.WriteLine("El número es más bajo");
                 if(minumero<aleatorio) System.Console.WriteLine("El número es más alto");
