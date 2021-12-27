@@ -8,7 +8,13 @@ namespace LanzamientoExcepciones
         {
             Console.WriteLine("Teclea un número entre el 1 y el 12");
             int mes=int.Parse(Console.ReadLine());
+            try{
             System.Console.WriteLine("El Mes correspondiente es: "+ NombreDelMes(mes));
+            }
+            catch (Exception e)
+            {
+                System.Console.WriteLine("Mensaje de Error: "+ e.Message);
+            }
         }
 
         public static string NombreDelMes(int mes)
@@ -65,7 +71,14 @@ namespace LanzamientoExcepciones
                 }
                 default:
                 {
-                    return "Número Inválido";
+                    //return "Número Inválido";
+
+                    //Esta expresión sirve para lanzar intencionalmente un error de sobrecarga
+                    //Ayudaria a los programadores a controlar mejor las excepciones.
+
+                    //throw -> Lanzar
+                    //New -> Nueva
+                    throw new ArgumentOutOfRangeException();
                 }
                 
             }

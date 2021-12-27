@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo.deps.json
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo.dll
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/ref/LeerUnArchivo.dll
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/bin/Debug/net5.0/LeerUnArchivo.pdb
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.dll
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/ref/LeerUnArchivo.dll
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.pdb
+/home/felipe/Dropbox/Programación/C#/LeerUnArchivo/obj/Debug/net5.0/LeerUnArchivo.genruntimeconfig.cache
