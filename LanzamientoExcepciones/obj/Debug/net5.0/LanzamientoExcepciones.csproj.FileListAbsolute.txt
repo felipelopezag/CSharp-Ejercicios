@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones.deps.json
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones.dll
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/ref/LanzamientoExcepciones.dll
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/bin/Debug/net5.0/LanzamientoExcepciones.pdb
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.dll
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/ref/LanzamientoExcepciones.dll
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.pdb
+/home/felipe/Dropbox/Programación/C#/LanzamientoExcepciones/obj/Debug/net5.0/LanzamientoExcepciones.genruntimeconfig.cache
