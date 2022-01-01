@@ -24,12 +24,6 @@ namespace AdivinarAleatorio
                 catch(OverflowException e){
                     System.Console.WriteLine("Número demasiado grande, usa solo números entre 0 y 100");
                 }
-
-                // Captura todas las excepciones excepto las previamente definidas como lo hicimos con FormatException
-                catch(Exception e) when (e.GetType!=typeof(FormatException))
-                {
-                    System.Console.WriteLine("Formato invalido");
-                }
                 
                 //Se valída el número proporcionado con el usuario con el generado aleatoriamente.
                 if(minumero>aleatorio) System.Console.WriteLine("El número es más bajo");
