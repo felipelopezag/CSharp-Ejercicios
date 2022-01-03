@@ -11,6 +11,11 @@ namespace EjemplosPOO
             //Tambien se le llama instanciación / EJemplarización / Creación de ejemplar de clase.
 
             System.Console.WriteLine(miCirculo.CalculoArea(5));
+
+            //Segundo objeto:
+            Circulo miCirculo2;
+            miCirculo2= new Circulo();
+            System.Console.WriteLine(miCirculo2.CalculoArea(9));
         }
     }
 
