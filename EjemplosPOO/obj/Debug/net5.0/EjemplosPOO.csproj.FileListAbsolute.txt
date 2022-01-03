@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO.deps.json
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO.dll
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/ref/EjemplosPOO.dll
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/bin/Debug/net5.0/EjemplosPOO.pdb
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.dll
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/ref/EjemplosPOO.dll
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.pdb
+/home/felipe/Dropbox/Programación/C#/EjemplosPOO/obj/Debug/net5.0/EjemplosPOO.genruntimeconfig.cache
