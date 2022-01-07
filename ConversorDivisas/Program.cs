@@ -6,7 +6,7 @@ namespace ConversorDivisas
     {
         static void Main(string[] args)
         {
-            //Programa que convierte divisas mediante objetos
+            //Programa que convierte pesos mexicanos a otras divisas mediante objetos
             Conversor PesoA;
             PesoA=new Conversor();
             Console.WriteLine("Teclea la cantidad en pesos mexicanos: $");
