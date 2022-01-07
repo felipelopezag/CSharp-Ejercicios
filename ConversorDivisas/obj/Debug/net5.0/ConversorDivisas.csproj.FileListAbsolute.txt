@@ -1,0 +1,16 @@
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.csproj.AssemblyReference.cache
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.AssemblyInfoInputs.cache
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.AssemblyInfo.cs
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.csproj.CoreCompileInputs.cache
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas.deps.json
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas.runtimeconfig.json
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas.runtimeconfig.dev.json
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas.dll
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ref/ConversorDivisas.dll
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/bin/Debug/net5.0/ConversorDivisas.pdb
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.dll
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ref/ConversorDivisas.dll
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.pdb
+/home/felipe/Dropbox/Programación/C#/ConversorDivisas/obj/Debug/net5.0/ConversorDivisas.genruntimeconfig.cache
